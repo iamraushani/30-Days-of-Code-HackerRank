@@ -6,7 +6,6 @@ mealcost=100
 tippercent=15
 taxpercent=8
 
-
 A tip of 15% * 100 = 15, and the taxes are 8% * 100 = 8. Print the value 123 and return from the function.
 
 Function Description
@@ -27,7 +26,7 @@ import random
 import re
 import sys
 
-#
+
 # Complete the 'solve' function below.
 #
 # The function accepts following parameters:
