@@ -5,7 +5,8 @@ If n is odd, print Weird
 If n is even and in the inclusive range of 2 to 5, print Not Weird
 If  is even and in the inclusive range of 6 to 20, print Weird
 If n is even and greater than , print Not Weird
-Complete the stub code provided in your editor to print whether or not  is weird."""                                                                                                     
+Complete the stub code provided in your editor to print whether or not  is weird."""   
+
 #!/bin/python3
 
 import math
